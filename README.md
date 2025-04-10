@@ -1,5 +1,5 @@
-<img src="img/athenas_apw" alt="logotipo" width="30px"
-# Projeto Athenas-2025
+
+# Projeto Athenas-2025 <img src="img/athenas.jpg" alt="logotipo" width="30px" />
 ### ETEC MCM de Ribeirão Pires - Prof. Bruno Zotolareff dos Santos
 ### Membros do grupo:
 - Emily Jaqueline
